@@ -51,5 +51,5 @@ public class GuessNumberGame {
         }
 
         System.out.println("Thanks for playing!");
-    }
+    } 
 }
